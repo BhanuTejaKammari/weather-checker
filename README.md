@@ -1,3 +1,4 @@
+Stunning Weather Dashboard
 A sleek, modern, and responsive weather dashboard application built with pure HTML, Tailwind CSS, and JavaScript. It provides real-time weather information, a 5-day forecast, and a beautiful, user-friendly "glassmorphism" interface that makes checking the weather an enjoyable experience.
 
 ✨ Key Features
@@ -13,7 +14,7 @@ Detailed Information: Access key metrics like "Feels Like" temperature, humidity
 
 Local Time Display: Always see the correct current date and time for the searched location, updated every second.
 
-Fully Responsive: The layout is optimized using modern CSS to look and work great on desktops, tablets, and mobile devices.
+Fully Responsive: The layout is optimized to look and work great on desktops, tablets, and mobile devices.
 
 🚀 How to Use
 To get this project up and running on your local machine, follow these simple steps.
